@@ -1,0 +1,82 @@
+[
+  {
+      "id": 1,
+      "name": "Nguyễn Hoàng Bách",
+      "gender": "Nam",
+      "role": "Lập trình viên",
+      "birthdate": "1992-05-14",
+      "phone": "0912345678"
+  },
+  {
+      "id": 2,
+      "name": "Trần Thị Thanh Thảo",
+      "gender": "Nữ",
+      "role": "Kế toán",
+      "birthdate": "1995-08-23",
+      "phone": "0987654321"
+  },
+  {
+      "id": 3,
+      "name": "Lê Trọng Tuấn",
+      "gender": "Nam",
+      "role": "Quản lý dự án",
+      "birthdate": "1988-11-05",
+      "phone": "0356789123"
+  },
+  {
+      "id": 4,
+      "name": "Phạm Ngọc Bích",
+      "gender": "Nữ",
+      "role": "Chuyên viên Nhân sự",
+      "birthdate": "1994-02-19",
+      "phone": "0701122334"
+  },
+  {
+      "id": 5,
+      "name": "Vũ Đình Kiên",
+      "gender": "Nam",
+      "role": "Kỹ sư cơ khí",
+      "birthdate": "1991-07-30",
+      "phone": "0899887766"
+  },
+  {
+      "id": 6,
+      "name": "Đặng Thị Mỹ Duyên",
+      "gender": "Nữ",
+      "role": "Chuyên viên Marketing",
+      "birthdate": "1998-10-15",
+      "phone": "0933445566"
+  },
+  {
+      "id": 7,
+      "name": "Bùi Xuân Trường",
+      "gender": "Nam",
+      "role": "Nhân viên kinh doanh",
+      "birthdate": "1996-03-22",
+      "phone": "0388776655"
+  },
+  {
+      "id": 8,
+      "name": "Ngô Mai Thu",
+      "gender": "Nữ",
+      "role": "Thiết kế đồ họa",
+      "birthdate": "1997-09-09",
+      "phone": "0777888999"
+  },
+  {
+      "id": 9,
+      "name": "Hoàng Văn Nam",
+      "gender": "Nam",
+      "role": "Chuyên viên phân tích dữ liệu",
+      "birthdate": "1993-12-01",
+      "phone": "0566554433"
+  },
+  {
+      "id": 10,
+      "name": "Phan Tuyết Nhung",
+      "gender": "Nữ",
+      "job": "Trợ lý giám đốc",
+      "birthdate": "1990-04-18",
+      "phone": "0909112233"
+  }
+]

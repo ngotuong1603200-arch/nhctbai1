@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "bill_id": "HD001",
+    "product_id": 1,
+    "productName": "Gà rán truyền thống",
+    "quantity": 2,
+    "unit_price": 30000,
+    "price": 60000
+  },
+  {
+    "id": 2,
+    "bill_id": "HD002",
+    "product_id": 2,
+    "productName": "Gà rán sốt phô mai",
+    "quantity": 1,
+    "unit_price": 35000,
+    "price": 35000
+  },
+  {
+    "id": 3,
+    "bill_id": "HD003",
+    "product_id": 3,
+    "productName": "Gà rán sốt đậu",
+    "quantity": 3,
+    "unit_price": 35000,
+    "price": 105000
+  },
+  {
+    "id": 4,
+    "bill_id": "HD004",
+    "product_id": 4,
+    "productName": "Gà sốt HS",
+    "quantity": 2,
+    "unit_price": 25000,
+    "price": 50000
+  },
+  {
+    "id": 5,
+    "bill_id": "HD005",
+    "product_id": 5,
+    "productName": "Gà sốt K-Chicken",
+    "quantity": 1,
+    "unit_price": 35000,
+    "price": 35000
+  },
+  {
+    "id": 6,
+    "bill_id": "HD006",
+    "product_id": 6,
+    "productName": "Gà Nướng",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 7,
+    "bill_id": "HD007",
+    "product_id": 7,
+    "productName": "Gà Popcorn",
+    "quantity": 2,
+    "unit_price": 25000,
+    "price": 50000
+  },
+  {
+    "id": 8,
+    "bill_id": "HD008",
+    "product_id": 8,
+    "productName": "Đùi gà chiên tẩm sốt",
+    "quantity": 1,
+    "unit_price": 40000,
+    "price": 40000
+  },
+  {
+    "id": 9,
+    "bill_id": "HD009",
+    "product_id": 9,
+    "productName": "Gà rán chiên giòn truyền thống",
+    "quantity": 3,
+    "unit_price": 35000,
+    "price": 105000
+  },
+  {
+    "id": 10,
+    "bill_id": "HD010",
+    "product_id": 10,
+    "productName": "Gà rán chiên giòn truyền thống",
+    "quantity": 2,
+    "unit_price": 40000,
+    "price": 80000
+  },
+  {
+    "id": 11,
+    "bill_id": "HD011",
+    "product_id": 11,
+    "productName": "Khoai tây chiên truyền thống",
+    "quantity": 1,
+    "unit_price": 15000,
+    "price": 15000
+  },
+  {
+    "id": 12,
+    "bill_id": "HD012",
+    "product_id": 12,
+    "productName": "Khoai tây chiên lắc phô mai",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 13,
+    "bill_id": "HD013",
+    "product_id": 13,
+    "productName": "Khoai tây múi cau",
+    "quantity": 2,
+    "unit_price": 18000,
+    "price": 36000
+  },
+  {
+    "id": 14,
+    "bill_id": "HD014",
+    "product_id": 14,
+    "productName": "Khoai tây lốc xoáy",
+    "quantity": 1,
+    "unit_price": 15000,
+    "price": 15000
+  },
+  {
+    "id": 15,
+    "bill_id": "HD015",
+    "product_id": 15,
+    "productName": "Khoai tây nghiền",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 16,
+    "bill_id": "HD016",
+    "product_id": 16,
+    "productName": "Khoai lang chiên",
+    "quantity": 2,
+    "unit_price": 15000,
+    "price": 30000
+  },
+  {
+    "id": 17,
+    "bill_id": "HD017",
+    "product_id": 17,
+    "productName": "Khoai tây mặt cười",
+    "quantity": 1,
+    "unit_price": 20000,
+    "price": 20000
+  },
+  {
+    "id": 18,
+    "bill_id": "HD018",
+    "product_id": 18,
+    "productName": "Khoai tây chiên sốt bơ tỏi",
+    "quantity": 3,
+    "unit_price": 25000,
+    "price": 75000
+  },
+  {
+    "id": 19,
+    "bill_id": "HD019",
+    "product_id": 19,
+    "productName": "Khoai tây đút lò",
+    "quantity": 2,
+    "unit_price": 30000,
+    "price": 60000
+  },
+  {
+    "id": 20,
+    "bill_id": "HD020",
+    "product_id": 20,
+    "productName": "Khoai tây chiên rong biển",
+    "quantity": 1,
+    "unit_price": 22000,
+    "price": 22000
+  },
+  {
+    "id": 21,
+    "bill_id": "HD021",
+    "product_id": 21,
+    "productName": "Hamburger bò",
+    "quantity": 3,
+    "unit_price": 45000,
+    "price": 135000
+  },
+  {
+    "id": 22,
+    "bill_id": "HD022",
+    "product_id": 22,
+    "productName": "Hamburger gà",
+    "quantity": 2,
+    "unit_price": 40000,
+    "price": 80000
+  },
+  {
+    "id": 23,
+    "bill_id": "HD023",
+    "product_id": 23,
+    "productName": "Hamburger heo nướng",
+    "quantity": 1,
+    "unit_price": 40000,
+    "price": 40000
+  },
+  {
+    "id": 24,
+    "bill_id": "HD024",
+    "product_id": 24,
+    "productName": "Hamburger cá",
+    "quantity": 3,
+    "unit_price": 45000,
+    "price": 135000
+  },
+  {
+    "id": 25,
+    "bill_id": "HD025",
+    "product_id": 25,
+    "productName": "Hamburger tôm",
+    "quantity": 2,
+    "unit_price": 50000,
+    "price": 100000
+  },
+  {
+    "id": 26,
+    "bill_id": "HD026",
+    "product_id": 26,
+    "productName": "Hamburger phô mai",
+    "quantity": 1,
+    "unit_price": 35000,
+    "price": 35000
+  },
+  {
+    "id": 27,
+    "bill_id": "HD027",
+    "product_id": 27,
+    "productName": "Hamburger trứng xúc xích",
+    "quantity": 3,
+    "unit_price": 30000,
+    "price": 90000
+  },
+  {
+    "id": 28,
+    "bill_id": "HD028",
+    "product_id": 28,
+    "productName": "Hamburger nấm",
+    "quantity": 2,
+    "unit_price": 35000,
+    "price": 70000
+  },
+  {
+    "id": 29,
+    "bill_id": "HD029",
+    "product_id": 29,
+    "productName": "Hamburger bò sốt BBQ",
+    "quantity": 1,
+    "unit_price": 50000,
+    "price": 50000
+  },
+  {
+    "id": 30,
+    "bill_id": "HD030",
+    "product_id": 30,
+    "productName": "Hamburger tháp 2 tầng",
+    "quantity": 3,
+    "unit_price": 70000,
+    "price": 210000
+  },
+  {
+    "id": 31,
+    "bill_id": "HD031",
+    "product_id": 31,
+    "productName": "Pizza phô mai béo ngậy",
+    "quantity": 2,
+    "unit_price": 120000,
+    "price": 240000
+  },
+  {
+    "id": 32,
+    "bill_id": "HD032",
+    "product_id": 32,
+    "productName": "Pizza hải sản nhiệt đới",
+    "quantity": 1,
+    "unit_price": 150000,
+    "price": 150000
+  },
+  {
+    "id": 33,
+    "bill_id": "HD033",
+    "product_id": 33,
+    "productName": "Pizza xúc xích nướng",
+    "quantity": 3,
+    "unit_price": 130000,
+    "price": 390000
+  },
+  {
+    "id": 34,
+    "bill_id": "HD034",
+    "product_id": 34,
+    "productName": "Pizza bò băm",
+    "quantity": 2,
+    "unit_price": 140000,
+    "price": 280000
+  },
+  {
+    "id": 35,
+    "bill_id": "HD035",
+    "product_id": 35,
+    "productName": "Pizza gà nấm",
+    "quantity": 1,
+    "unit_price": 135000,
+    "price": 135000
+  },
+  {
+    "id": 36,
+    "bill_id": "HD036",
+    "product_id": 36,
+    "productName": "Pizza Hawaii (Dứa & Dăm bông)",
+    "quantity": 3,
+    "unit_price": 130000,
+    "price": 390000
+  },
+  {
+    "id": 37,
+    "bill_id": "HD037",
+    "product_id": 37,
+    "productName": "Pizza thập cẩm",
+    "quantity": 2,
+    "unit_price": 145000,
+    "price": 290000
+  },
+  {
+    "id": 38,
+    "bill_id": "HD038",
+    "product_id": 38,
+    "productName": "Pizza chay rau củ",
+    "quantity": 1,
+    "unit_price": 110000,
+    "price": 110000
+  },
+  {
+    "id": 39,
+    "bill_id": "HD039",
+    "product_id": 39,
+    "productName": "Pizza sườn nướng BBQ",
+    "quantity": 3,
+    "unit_price": 160000,
+    "price": 480000
+  },
+  {
+    "id": 40,
+    "bill_id": "HD040",
+    "product_id": 40,
+    "productName": "Pizza lạp xưởng",
+    "quantity": 2,
+    "unit_price": 125000,
+    "price": 250000
+  },
+  {
+    "id": 41,
+    "bill_id": "HD041",
+    "product_id": 41,
+    "productName": "Xúc xích Đức nướng",
+    "quantity": 1,
+    "unit_price": 20000,
+    "price": 20000
+  },
+  {
+    "id": 42,
+    "bill_id": "HD042",
+    "product_id": 42,
+    "productName": "Xúc xích hun khói",
+    "quantity": 3,
+    "unit_price": 22000,
+    "price": 66000
+  },
+  {
+    "id": 43,
+    "bill_id": "HD043",
+    "product_id": 43,
+    "productName": "Xúc xích phô mai",
+    "quantity": 2,
+    "unit_price": 25000,
+    "price": 50000
+  },
+  {
+    "id": 44,
+    "bill_id": "HD044",
+    "product_id": 44,
+    "productName": "Xúc xích tỏi",
+    "quantity": 1,
+    "unit_price": 18000,
+    "price": 18000
+  },
+  {
+    "id": 45,
+    "bill_id": "HD045",
+    "product_id": 45,
+    "productName": "Xúc xích bò hảo hạng",
+    "quantity": 3,
+    "unit_price": 30000,
+    "price": 90000
+  },
+  {
+    "id": 46,
+    "bill_id": "HD046",
+    "product_id": 46,
+    "productName": "Xúc xích gà",
+    "quantity": 2,
+    "unit_price": 18000,
+    "price": 36000
+  },
+  {
+    "id": 47,
+    "bill_id": "HD047",
+    "product_id": 47,
+    "productName": "Xúc xích cocktail",
+    "quantity": 1,
+    "unit_price": 25000,
+    "price": 25000
+  },
+  {
+    "id": 48,
+    "bill_id": "HD048",
+    "product_id": 48,
+    "productName": "Xúc xích nướng đá",
+    "quantity": 3,
+    "unit_price": 22000,
+    "price": 66000
+  },
+  {
+    "id": 49,
+    "bill_id": "HD049",
+    "product_id": 49,
+    "productName": "Xúc xích tẩm bột chiên xù",
+    "quantity": 2,
+    "unit_price": 20000,
+    "price": 40000
+  },
+  {
+    "id": 50,
+    "bill_id": "HD050",
+    "product_id": 50,
+    "productName": "Xúc xích hồ lô",
+    "quantity": 1,
+    "unit_price": 15000,
+    "price": 15000
+  },
+  {
+    "id": 51,
+    "bill_id": "HD051",
+    "product_id": 51,
+    "productName": "Sandwich dăm bông phô mai",
+    "quantity": 3,
+    "unit_price": 25000,
+    "price": 75000
+  },
+  {
+    "id": 52,
+    "bill_id": "HD052",
+    "product_id": 52,
+    "productName": "Sandwich trứng muối",
+    "quantity": 2,
+    "unit_price": 30000,
+    "price": 60000
+  },
+  {
+    "id": 53,
+    "bill_id": "HD053",
+    "product_id": 53,
+    "productName": "Sandwich gà xé phay",
+    "quantity": 1,
+    "unit_price": 25000,
+    "price": 25000
+  },
+  {
+    "id": 54,
+    "bill_id": "HD054",
+    "product_id": 54,
+    "productName": "Sandwich cá ngừ mayonnaise",
+    "quantity": 3,
+    "unit_price": 35000,
+    "price": 105000
+  },
+  {
+    "id": 55,
+    "bill_id": "HD055",
+    "product_id": 55,
+    "productName": "Sandwich bò nướng",
+    "quantity": 2,
+    "unit_price": 40000,
+    "price": 80000
+  },
+  {
+    "id": 56,
+    "bill_id": "HD056",
+    "product_id": 56,
+    "productName": "Sandwich xúc xích cuộn",
+    "quantity": 1,
+    "unit_price": 20000,
+    "price": 20000
+  },
+  {
+    "id": 57,
+    "bill_id": "HD057",
+    "product_id": 57,
+    "productName": "Sandwich bơ đậu phộng mứt dâu",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 58,
+    "bill_id": "HD058",
+    "product_id": 58,
+    "productName": "Sandwich nướng bơ tỏi",
+    "quantity": 2,
+    "unit_price": 15000,
+    "price": 30000
+  },
+  {
+    "id": 59,
+    "bill_id": "HD059",
+    "product_id": 59,
+    "productName": "Sandwich thập cẩm",
+    "quantity": 1,
+    "unit_price": 35000,
+    "price": 35000
+  },
+  {
+    "id": 60,
+    "bill_id": "HD060",
+    "product_id": 60,
+    "productName": "Sandwich rau củ tươi",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 61,
+    "bill_id": "HD061",
+    "product_id": 61,
+    "productName": "Kem tươi Vani",
+    "quantity": 2,
+    "unit_price": 10000,
+    "price": 20000
+  },
+  {
+    "id": 62,
+    "bill_id": "HD062",
+    "product_id": 62,
+    "productName": "Kem Chocolate",
+    "quantity": 1,
+    "unit_price": 12000,
+    "price": 12000
+  },
+  {
+    "id": 63,
+    "bill_id": "HD063",
+    "product_id": 63,
+    "productName": "Bánh Flan",
+    "quantity": 3,
+    "unit_price": 15000,
+    "price": 45000
+  },
+  {
+    "id": 64,
+    "bill_id": "HD064",
+    "product_id": 64,
+    "productName": "Bánh Tiramisu",
+    "quantity": 2,
+    "unit_price": 35000,
+    "price": 70000
+  },
+  {
+    "id": 65,
+    "bill_id": "HD065",
+    "product_id": 65,
+    "productName": "Bánh Mousse chanh dây",
+    "quantity": 1,
+    "unit_price": 30000,
+    "price": 30000
+  },
+  {
+    "id": 66,
+    "bill_id": "HD066",
+    "product_id": 66,
+    "productName": "Chè khúc bạch",
+    "quantity": 3,
+    "unit_price": 25000,
+    "price": 75000
+  },
+  {
+    "id": 67,
+    "bill_id": "HD067",
+    "product_id": 67,
+    "productName": "Trái cây tô sữa chua",
+    "quantity": 2,
+    "unit_price": 35000,
+    "price": 70000
+  },
+  {
+    "id": 68,
+    "bill_id": "HD068",
+    "product_id": 68,
+    "productName": "Sữa chua hạt đác",
+    "quantity": 1,
+    "unit_price": 25000,
+    "price": 25000
+  },
+  {
+    "id": 69,
+    "bill_id": "HD069",
+    "product_id": 69,
+    "productName": "Pudding xoài",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 70,
+    "bill_id": "HD070",
+    "product_id": 70,
+    "productName": "Tart trứng nướng",
+    "quantity": 2,
+    "unit_price": 18000,
+    "price": 36000
+  },
+  {
+    "id": 71,
+    "bill_id": "HD071",
+    "product_id": 71,
+    "productName": "Coca Cola",
+    "quantity": 1,
+    "unit_price": 15000,
+    "price": 15000
+  },
+  {
+    "id": 72,
+    "bill_id": "HD072",
+    "product_id": 72,
+    "productName": "Pepsi",
+    "quantity": 3,
+    "unit_price": 15000,
+    "price": 45000
+  },
+  {
+    "id": 73,
+    "bill_id": "HD073",
+    "product_id": 73,
+    "productName": "Sprite",
+    "quantity": 2,
+    "unit_price": 15000,
+    "price": 30000
+  },
+  {
+    "id": 74,
+    "bill_id": "HD074",
+    "product_id": 74,
+    "productName": "Trà đào cam sả",
+    "quantity": 1,
+    "unit_price": 30000,
+    "price": 30000
+  },
+  {
+    "id": 75,
+    "bill_id": "HD075",
+    "product_id": 75,
+    "productName": "Trà sữa trân châu đường đen",
+    "quantity": 3,
+    "unit_price": 35000,
+    "price": 105000
+  },
+  {
+    "id": 76,
+    "bill_id": "HD076",
+    "product_id": 76,
+    "productName": "Trà chanh giã tay",
+    "quantity": 2,
+    "unit_price": 25000,
+    "price": 50000
+  },
+  {
+    "id": 77,
+    "bill_id": "HD077",
+    "product_id": 77,
+    "productName": "Nước suối tinh khiết",
+    "quantity": 1,
+    "unit_price": 10000,
+    "price": 10000
+  },
+  {
+    "id": 78,
+    "bill_id": "HD078",
+    "product_id": 78,
+    "productName": "Cà phê sữa đá",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 79,
+    "bill_id": "HD079",
+    "product_id": 79,
+    "productName": "Nước ép cam tươi",
+    "quantity": 2,
+    "unit_price": 30000,
+    "price": 60000
+  },
+  {
+    "id": 80,
+    "bill_id": "HD080",
+    "product_id": 80,
+    "productName": "Sinh tố bơ",
+    "quantity": 1,
+    "unit_price": 40000,
+    "price": 40000
+  },
+  {
+    "id": 81,
+    "bill_id": "HD081",
+    "product_id": 81,
+    "productName": "Phô mai que",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 82,
+    "bill_id": "HD082",
+    "product_id": 82,
+    "productName": "Phô mai viên chiên giòn",
+    "quantity": 2,
+    "unit_price": 25000,
+    "price": 50000
+  },
+  {
+    "id": 83,
+    "bill_id": "HD083",
+    "product_id": 83,
+    "productName": "Bánh phô mai nướng",
+    "quantity": 1,
+    "unit_price": 35000,
+    "price": 35000
+  },
+  {
+    "id": 84,
+    "bill_id": "HD084",
+    "product_id": 84,
+    "productName": "Gà cay phô mai đút lò",
+    "quantity": 3,
+    "unit_price": 60000,
+    "price": 180000
+  },
+  {
+    "id": 85,
+    "bill_id": "HD085",
+    "product_id": 85,
+    "productName": "Phô mai sợi xông khói",
+    "quantity": 2,
+    "unit_price": 45000,
+    "price": 90000
+  },
+  {
+    "id": 86,
+    "bill_id": "HD086",
+    "product_id": 86,
+    "productName": "Bánh mì bơ tỏi phô mai",
+    "quantity": 1,
+    "unit_price": 30000,
+    "price": 30000
+  },
+  {
+    "id": 87,
+    "bill_id": "HD087",
+    "product_id": 87,
+    "productName": "Mì Ý sốt kem phô mai",
+    "quantity": 3,
+    "unit_price": 55000,
+    "price": 165000
+  },
+  {
+    "id": 88,
+    "bill_id": "HD088",
+    "product_id": 88,
+    "productName": "Hàu nướng phô mai",
+    "quantity": 2,
+    "unit_price": 70000,
+    "price": 140000
+  },
+  {
+    "id": 89,
+    "bill_id": "HD089",
+    "product_id": 89,
+    "productName": "Bánh đồng xu phô mai",
+    "quantity": 1,
+    "unit_price": 35000,
+    "price": 35000
+  },
+  {
+    "id": 90,
+    "bill_id": "HD090",
+    "product_id": 90,
+    "productName": "Tokbokki phô mai",
+    "quantity": 3,
+    "unit_price": 45000,
+    "price": 135000
+  },
+  {
+    "id": 91,
+    "bill_id": "HD091",
+    "product_id": 91,
+    "productName": "Hot dog Mỹ truyền thống",
+    "quantity": 2,
+    "unit_price": 25000,
+    "price": 50000
+  },
+  {
+    "id": 92,
+    "bill_id": "HD092",
+    "product_id": 92,
+    "productName": "Hot dog phô mai Hàn Quốc",
+    "quantity": 1,
+    "unit_price": 30000,
+    "price": 30000
+  },
+  {
+    "id": 93,
+    "bill_id": "HD093",
+    "product_id": 93,
+    "productName": "Hot dog tẩm bột ngô (Corn dog)",
+    "quantity": 3,
+    "unit_price": 20000,
+    "price": 60000
+  },
+  {
+    "id": 94,
+    "bill_id": "HD094",
+    "product_id": 94,
+    "productName": "Hot dog xúc xích bò phô mai",
+    "quantity": 2,
+    "unit_price": 35000,
+    "price": 70000
+  },
+  {
+    "id": 95,
+    "bill_id": "HD095",
+    "product_id": 95,
+    "productName": "Hot dog cuộn bacon",
+    "quantity": 1,
+    "unit_price": 40000,
+    "price": 40000
+  },
+  {
+    "id": 96,
+    "bill_id": "HD096",
+    "product_id": 96,
+    "productName": "Hot dog vỏ khoai tây chiên",
+    "quantity": 3,
+    "unit_price": 35000,
+    "price": 105000
+  },
+  {
+    "id": 97,
+    "bill_id": "HD097",
+    "product_id": 97,
+    "productName": "Hot dog vỏ mì tôm",
+    "quantity": 2,
+    "unit_price": 30000,
+    "price": 60000
+  },
+  {
+    "id": 98,
+    "bill_id": "HD098",
+    "product_id": 98,
+    "productName": "Hot dog sốt cay tỏi",
+    "quantity": 1,
+    "unit_price": 28000,
+    "price": 28000
+  },
+  {
+    "id": 99,
+    "bill_id": "HD099",
+    "product_id": 99,
+    "productName": "Hot dog phủ phô mai bắp",
+    "quantity": 3,
+    "unit_price": 35000,
+    "price": 105000
+  },
+  {
+    "id": 100,
+    "bill_id": "HD100",
+    "product_id": 100,
+    "productName": "Hot dog dăm bông",
+    "quantity": 2,
+    "unit_price": 32000,
+    "price": 64000
+  }
+]

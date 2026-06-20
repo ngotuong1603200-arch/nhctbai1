@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "code": "HD001",
+    "id_customer": 1,
+    "id_employee": 1,
+    "orderDate": "2026-05-15T08:30:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 2,
+    "code": "HD002",
+    "id_customer": 2,
+    "id_employee": 2,
+    "orderDate": "2026-05-15T09:15:00",
+    "totalAmount": 35000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 3,
+    "code": "HD003",
+    "id_customer": 3,
+    "id_employee": 3,
+    "orderDate": "2026-05-15T10:05:00",
+    "totalAmount": 105000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 4,
+    "code": "HD004",
+    "id_customer": 4,
+    "id_employee": 4,
+    "orderDate": "2026-05-15T10:45:00",
+    "totalAmount": 50000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 5,
+    "code": "HD005",
+    "id_customer": 5,
+    "id_employee": 5,
+    "orderDate": "2026-05-15T11:20:00",
+    "totalAmount": 35000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 6,
+    "code": "HD006",
+    "id_customer": 6,
+    "id_employee": 6,
+    "orderDate": "2026-05-15T12:00:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Đã hủy"
+  },
+  {
+    "id": 7,
+    "code": "HD007",
+    "id_customer": 7,
+    "id_employee": 7,
+    "orderDate": "2026-05-15T12:30:00",
+    "totalAmount": 50000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 8,
+    "code": "HD008",
+    "id_customer": 8,
+    "id_employee": 8,
+    "orderDate": "2026-05-15T13:10:00",
+    "totalAmount": 40000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 9,
+    "code": "HD009",
+    "id_customer": 9,
+    "id_employee": 9,
+    "orderDate": "2026-05-15T14:25:00",
+    "totalAmount": 105000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 10,
+    "code": "HD010",
+    "id_customer": 10,
+    "id_employee": 10,
+    "orderDate": "2026-05-15T15:40:00",
+    "totalAmount": 80000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 11,
+    "code": "HD011",
+    "id_customer": 11,
+    "id_employee": 1,
+    "orderDate": "2026-05-15T16:10:00",
+    "totalAmount": 15000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 12,
+    "code": "HD012",
+    "id_customer": 12,
+    "id_employee": 2,
+    "orderDate": "2026-05-15T17:05:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 13,
+    "code": "HD013",
+    "id_customer": 13,
+    "id_employee": 3,
+    "orderDate": "2026-05-15T18:20:00",
+    "totalAmount": 36000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 14,
+    "code": "HD014",
+    "id_customer": 14,
+    "id_employee": 4,
+    "orderDate": "2026-05-15T19:00:00",
+    "totalAmount": 15000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 15,
+    "code": "HD015",
+    "id_customer": 15,
+    "id_employee": 5,
+    "orderDate": "2026-05-15T19:45:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 16,
+    "code": "HD016",
+    "id_customer": 16,
+    "id_employee": 6,
+    "orderDate": "2026-05-15T20:30:00",
+    "totalAmount": 30000,
+    "paymentMethod": "VNPay",
+    "status": "Đã hủy"
+  },
+  {
+    "id": 17,
+    "code": "HD017",
+    "id_customer": 17,
+    "id_employee": 7,
+    "orderDate": "2026-05-15T21:15:00",
+    "totalAmount": 20000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 18,
+    "code": "HD018",
+    "id_customer": 18,
+    "id_employee": 8,
+    "orderDate": "2026-05-16T08:00:00",
+    "totalAmount": 75000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 19,
+    "code": "HD019",
+    "id_customer": 19,
+    "id_employee": 9,
+    "orderDate": "2026-05-16T09:30:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 20,
+    "code": "HD020",
+    "id_customer": 20,
+    "id_employee": 10,
+    "orderDate": "2026-05-16T10:10:00",
+    "totalAmount": 22000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 21,
+    "code": "HD021",
+    "id_customer": 21,
+    "id_employee": 1,
+    "orderDate": "2026-05-16T11:05:00",
+    "totalAmount": 135000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 22,
+    "code": "HD022",
+    "id_customer": 22,
+    "id_employee": 2,
+    "orderDate": "2026-05-16T12:00:00",
+    "totalAmount": 80000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 23,
+    "code": "HD023",
+    "id_customer": 23,
+    "id_employee": 3,
+    "orderDate": "2026-05-16T12:45:00",
+    "totalAmount": 40000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 24,
+    "code": "HD024",
+    "id_customer": 24,
+    "id_employee": 4,
+    "orderDate": "2026-05-16T13:30:00",
+    "totalAmount": 135000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 25,
+    "code": "HD025",
+    "id_customer": 25,
+    "id_employee": 5,
+    "orderDate": "2026-05-16T14:15:00",
+    "totalAmount": 100000,
+    "paymentMethod": "COD",
+    "status": "Đã hủy"
+  },
+  {
+    "id": 26,
+    "code": "HD026",
+    "id_customer": 26,
+    "id_employee": 6,
+    "orderDate": "2026-05-16T15:00:00",
+    "totalAmount": 35000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 27,
+    "code": "HD027",
+    "id_customer": 27,
+    "id_employee": 7,
+    "orderDate": "2026-05-16T16:20:00",
+    "totalAmount": 90000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 28,
+    "code": "HD028",
+    "id_customer": 28,
+    "id_employee": 8,
+    "orderDate": "2026-05-16T17:10:00",
+    "totalAmount": 70000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 29,
+    "code": "HD029",
+    "id_customer": 29,
+    "id_employee": 9,
+    "orderDate": "2026-05-16T18:05:00",
+    "totalAmount": 50000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 30,
+    "code": "HD030",
+    "id_customer": 30,
+    "id_employee": 10,
+    "orderDate": "2026-05-16T19:30:00",
+    "totalAmount": 210000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 31,
+    "code": "HD031",
+    "id_customer": 31,
+    "id_employee": 1,
+    "orderDate": "2026-05-16T20:15:00",
+    "totalAmount": 240000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 32,
+    "code": "HD032",
+    "id_customer": 32,
+    "id_employee": 2,
+    "orderDate": "2026-05-16T21:00:00",
+    "totalAmount": 150000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 33,
+    "code": "HD033",
+    "id_customer": 33,
+    "id_employee": 3,
+    "orderDate": "2026-05-17T08:15:00",
+    "totalAmount": 390000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 34,
+    "code": "HD034",
+    "id_customer": 34,
+    "id_employee": 4,
+    "orderDate": "2026-05-17T09:00:00",
+    "totalAmount": 280000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 35,
+    "code": "HD035",
+    "id_customer": 35,
+    "id_employee": 5,
+    "orderDate": "2026-05-17T10:30:00",
+    "totalAmount": 135000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 36,
+    "code": "HD036",
+    "id_customer": 36,
+    "id_employee": 6,
+    "orderDate": "2026-05-17T11:15:00",
+    "totalAmount": 390000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 37,
+    "code": "HD037",
+    "id_customer": 37,
+    "id_employee": 7,
+    "orderDate": "2026-05-17T12:20:00",
+    "totalAmount": 290000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 38,
+    "code": "HD038",
+    "id_customer": 38,
+    "id_employee": 8,
+    "orderDate": "2026-05-17T13:10:00",
+    "totalAmount": 110000,
+    "paymentMethod": "COD",
+    "status": "Đã hủy"
+  },
+  {
+    "id": 39,
+    "code": "HD039",
+    "id_customer": 39,
+    "id_employee": 9,
+    "orderDate": "2026-05-17T14:00:00",
+    "totalAmount": 480000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 40,
+    "code": "HD040",
+    "id_customer": 40,
+    "id_employee": 10,
+    "orderDate": "2026-05-17T14:45:00",
+    "totalAmount": 250000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 41,
+    "code": "HD041",
+    "id_customer": 41,
+    "id_employee": 1,
+    "orderDate": "2026-05-17T15:30:00",
+    "totalAmount": 20000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 42,
+    "code": "HD042",
+    "id_customer": 42,
+    "id_employee": 2,
+    "orderDate": "2026-05-17T16:05:00",
+    "totalAmount": 66000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 43,
+    "code": "HD043",
+    "id_customer": 43,
+    "id_employee": 3,
+    "orderDate": "2026-05-17T17:20:00",
+    "totalAmount": 50000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 44,
+    "code": "HD044",
+    "id_customer": 44,
+    "id_employee": 4,
+    "orderDate": "2026-05-17T18:15:00",
+    "totalAmount": 18000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 45,
+    "code": "HD045",
+    "id_customer": 45,
+    "id_employee": 5,
+    "orderDate": "2026-05-17T19:00:00",
+    "totalAmount": 90000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 46,
+    "code": "HD046",
+    "id_customer": 46,
+    "id_employee": 6,
+    "orderDate": "2026-05-17T19:50:00",
+    "totalAmount": 36000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 47,
+    "code": "HD047",
+    "id_customer": 47,
+    "id_employee": 7,
+    "orderDate": "2026-05-17T20:35:00",
+    "totalAmount": 25000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 48,
+    "code": "HD048",
+    "id_customer": 48,
+    "id_employee": 8,
+    "orderDate": "2026-05-17T21:10:00",
+    "totalAmount": 66000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 49,
+    "code": "HD049",
+    "id_customer": 49,
+    "id_employee": 9,
+    "orderDate": "2026-05-18T08:20:00",
+    "totalAmount": 40000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 50,
+    "code": "HD050",
+    "id_customer": 50,
+    "id_employee": 10,
+    "orderDate": "2026-05-18T09:00:00",
+    "totalAmount": 15000,
+    "paymentMethod": "COD",
+    "status": "Đang giao"
+  },
+  {
+    "id": 51,
+    "code": "HD051",
+    "id_customer": 51,
+    "id_employee": 1,
+    "orderDate": "2026-05-18T09:30:00",
+    "totalAmount": 75000,
+    "paymentMethod": "Momo",
+    "status": "Đang giao"
+  },
+  {
+    "id": 52,
+    "code": "HD052",
+    "id_customer": 52,
+    "id_employee": 2,
+    "orderDate": "2026-05-18T10:15:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Đang giao"
+  },
+  {
+    "id": 53,
+    "code": "HD053",
+    "id_customer": 53,
+    "id_employee": 3,
+    "orderDate": "2026-05-18T10:50:00",
+    "totalAmount": 25000,
+    "paymentMethod": "VNPay",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 54,
+    "code": "HD054",
+    "id_customer": 54,
+    "id_employee": 4,
+    "orderDate": "2026-05-18T11:05:00",
+    "totalAmount": 105000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 55,
+    "code": "HD055",
+    "id_customer": 55,
+    "id_employee": 5,
+    "orderDate": "2026-05-18T11:20:00",
+    "totalAmount": 80000,
+    "paymentMethod": "Momo",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 56,
+    "code": "HD056",
+    "id_customer": 56,
+    "id_employee": 6,
+    "orderDate": "2026-05-18T11:35:00",
+    "totalAmount": 20000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 57,
+    "code": "HD057",
+    "id_customer": 57,
+    "id_employee": 7,
+    "orderDate": "2026-05-15T09:00:00",
+    "totalAmount": 60000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 58,
+    "code": "HD058",
+    "id_customer": 58,
+    "id_employee": 8,
+    "orderDate": "2026-05-15T09:45:00",
+    "totalAmount": 30000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 59,
+    "code": "HD059",
+    "id_customer": 59,
+    "id_employee": 9,
+    "orderDate": "2026-05-15T11:10:00",
+    "totalAmount": 35000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 60,
+    "code": "HD060",
+    "id_customer": 60,
+    "id_employee": 10,
+    "orderDate": "2026-05-15T13:20:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 61,
+    "code": "HD061",
+    "id_customer": 61,
+    "id_employee": 1,
+    "orderDate": "2026-05-15T14:40:00",
+    "totalAmount": 20000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 62,
+    "code": "HD062",
+    "id_customer": 62,
+    "id_employee": 2,
+    "orderDate": "2026-05-15T15:15:00",
+    "totalAmount": 12000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 63,
+    "code": "HD063",
+    "id_customer": 63,
+    "id_employee": 3,
+    "orderDate": "2026-05-15T16:30:00",
+    "totalAmount": 45000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 64,
+    "code": "HD064",
+    "id_customer": 64,
+    "id_employee": 4,
+    "orderDate": "2026-05-15T17:50:00",
+    "totalAmount": 70000,
+    "paymentMethod": "COD",
+    "status": "Đã hủy"
+  },
+  {
+    "id": 65,
+    "code": "HD065",
+    "id_customer": 65,
+    "id_employee": 5,
+    "orderDate": "2026-05-15T18:45:00",
+    "totalAmount": 30000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 66,
+    "code": "HD066",
+    "id_customer": 66,
+    "id_employee": 6,
+    "orderDate": "2026-05-15T20:10:00",
+    "totalAmount": 75000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 67,
+    "code": "HD067",
+    "id_customer": 67,
+    "id_employee": 7,
+    "orderDate": "2026-05-16T08:45:00",
+    "totalAmount": 70000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 68,
+    "code": "HD068",
+    "id_customer": 68,
+    "id_employee": 8,
+    "orderDate": "2026-05-16T10:00:00",
+    "totalAmount": 25000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 69,
+    "code": "HD069",
+    "id_customer": 69,
+    "id_employee": 9,
+    "orderDate": "2026-05-16T11:25:00",
+    "totalAmount": 60000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 70,
+    "code": "HD070",
+    "id_customer": 70,
+    "id_employee": 10,
+    "orderDate": "2026-05-16T12:50:00",
+    "totalAmount": 36000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 71,
+    "code": "HD071",
+    "id_customer": 71,
+    "id_employee": 1,
+    "orderDate": "2026-05-16T14:10:00",
+    "totalAmount": 15000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 72,
+    "code": "HD072",
+    "id_customer": 72,
+    "id_employee": 2,
+    "orderDate": "2026-05-16T15:30:00",
+    "totalAmount": 45000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 73,
+    "code": "HD073",
+    "id_customer": 73,
+    "id_employee": 3,
+    "orderDate": "2026-05-16T17:00:00",
+    "totalAmount": 30000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 74,
+    "code": "HD074",
+    "id_customer": 74,
+    "id_employee": 4,
+    "orderDate": "2026-05-16T18:15:00",
+    "totalAmount": 30000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 75,
+    "code": "HD075",
+    "id_customer": 75,
+    "id_employee": 5,
+    "orderDate": "2026-05-16T19:40:00",
+    "totalAmount": 105000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 76,
+    "code": "HD076",
+    "id_customer": 76,
+    "id_employee": 6,
+    "orderDate": "2026-05-16T21:05:00",
+    "totalAmount": 50000,
+    "paymentMethod": "COD",
+    "status": "Đã hủy"
+  },
+  {
+    "id": 77,
+    "code": "HD077",
+    "id_customer": 77,
+    "id_employee": 7,
+    "orderDate": "2026-05-17T09:10:00",
+    "totalAmount": 10000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 78,
+    "code": "HD078",
+    "id_customer": 78,
+    "id_employee": 8,
+    "orderDate": "2026-05-17T10:40:00",
+    "totalAmount": 60000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 79,
+    "code": "HD079",
+    "id_customer": 79,
+    "id_employee": 9,
+    "orderDate": "2026-05-17T12:05:00",
+    "totalAmount": 60000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 80,
+    "code": "HD080",
+    "id_customer": 80,
+    "id_employee": 10,
+    "orderDate": "2026-05-17T13:30:00",
+    "totalAmount": 40000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 81,
+    "code": "HD081",
+    "id_customer": 81,
+    "id_employee": 1,
+    "orderDate": "2026-05-17T14:55:00",
+    "totalAmount": 60000,
+    "paymentMethod": "ZaloPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 82,
+    "code": "HD082",
+    "id_customer": 82,
+    "id_employee": 2,
+    "orderDate": "2026-05-17T16:15:00",
+    "totalAmount": 50000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 83,
+    "code": "HD083",
+    "id_customer": 83,
+    "id_employee": 3,
+    "orderDate": "2026-05-17T17:40:00",
+    "totalAmount": 35000,
+    "paymentMethod": "Momo",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 84,
+    "code": "HD084",
+    "id_customer": 84,
+    "id_employee": 4,
+    "orderDate": "2026-05-17T19:10:00",
+    "totalAmount": 180000,
+    "paymentMethod": "COD",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 85,
+    "code": "HD085",
+    "id_customer": 85,
+    "id_employee": 5,
+    "orderDate": "2026-05-17T20:25:00",
+    "totalAmount": 90000,
+    "paymentMethod": "VNPay",
+    "status": "Hoàn thành"
+  },
+  {
+    "id": 86,
+    "code": "HD086",
+    "id_customer": 86,
+    "id_employee": 6,
+    "orderDate": "2026-05-18T08:30:00",
+    "totalAmount": 30000,
+    "paymentMethod": "COD",
+    "status": "Đang giao"
+  },
+  {
+    "id": 87,
+    "code": "HD087",
+    "id_customer": 87,
+    "id_employee": 7,
+    "orderDate": "2026-05-18T09:15:00",
+    "totalAmount": 165000,
+    "paymentMethod": "Momo",
+    "status": "Đang giao"
+  },
+  {
+    "id": 88,
+    "code": "HD088",
+    "id_customer": 88,
+    "id_employee": 8,
+    "orderDate": "2026-05-18T10:00:00",
+    "totalAmount": 140000,
+    "paymentMethod": "COD",
+    "status": "Đang giao"
+  },
+  {
+    "id": 89,
+    "code": "HD089",
+    "id_customer": 89,
+    "id_employee": 9,
+    "orderDate": "2026-05-18T10:30:00",
+    "totalAmount": 35000,
+    "paymentMethod": "ZaloPay",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 90,
+    "code": "HD090",
+    "id_customer": 90,
+    "id_employee": 10,
+    "orderDate": "2026-05-18T10:45:00",
+    "totalAmount": 135000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 91,
+    "code": "HD091",
+    "id_customer": 91,
+    "id_employee": 1,
+    "orderDate": "2026-05-18T11:00:00",
+    "totalAmount": 50000,
+    "paymentMethod": "Momo",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 92,
+    "code": "HD092",
+    "id_customer": 92,
+    "id_employee": 2,
+    "orderDate": "2026-05-18T11:10:00",
+    "totalAmount": 30000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 93,
+    "code": "HD093",
+    "id_customer": 93,
+    "id_employee": 3,
+    "orderDate": "2026-05-18T11:15:00",
+    "totalAmount": 60000,
+    "paymentMethod": "VNPay",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 94,
+    "code": "HD094",
+    "id_customer": 94,
+    "id_employee": 4,
+    "orderDate": "2026-05-18T11:20:00",
+    "totalAmount": 70000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 95,
+    "code": "HD095",
+    "id_customer": 95,
+    "id_employee": 5,
+    "orderDate": "2026-05-18T11:22:00",
+    "totalAmount": 40000,
+    "paymentMethod": "Momo",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 96,
+    "code": "HD096",
+    "id_customer": 96,
+    "id_employee": 6,
+    "orderDate": "2026-05-18T11:25:00",
+    "totalAmount": 105000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 97,
+    "code": "HD097",
+    "id_customer": 97,
+    "id_employee": 7,
+    "orderDate": "2026-05-18T11:28:00",
+    "totalAmount": 60000,
+    "paymentMethod": "ZaloPay",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 98,
+    "code": "HD098",
+    "id_customer": 98,
+    "id_employee": 8,
+    "orderDate": "2026-05-18T11:32:00",
+    "totalAmount": 28000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 99,
+    "code": "HD099",
+    "id_customer": 99,
+    "id_employee": 9,
+    "orderDate": "2026-05-18T11:35:00",
+    "totalAmount": 105000,
+    "paymentMethod": "Momo",
+    "status": "Đang xử lý"
+  },
+  {
+    "id": 100,
+    "code": "HD100",
+    "id_customer": 100,
+    "id_employee": 10,
+    "orderDate": "2026-05-18T11:38:00",
+    "totalAmount": 64000,
+    "paymentMethod": "COD",
+    "status": "Đang xử lý"
+  }
+]

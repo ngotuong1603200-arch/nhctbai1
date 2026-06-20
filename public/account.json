@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "user": "admin1",
+    "name": "Cát Tường",
+    "password": "123",
+    "role": "admin",
+    "email": "admin@gmail.com",
+    "phone": "0901234567"
+  },
+  {
+    "id": 2,
+    "user": "khachhang1",
+    "name": "Lý Tấn Phát",
+    "password": "123",
+    "role": "customer",
+    "email": "duckydaily044@gmail.com",
+    "phone": "0912345678"
+  },
+  {
+    "id": 3,
+    "user": "khachhang2",
+    "name": "Nguyễn Thanh Nhật",
+    "password": "123",
+    "role": "customer",
+    "email": "yoshiko123@gmail.com",
+    "phone": "0987654321"
+  }
+]
